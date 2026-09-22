@@ -1,9 +1,11 @@
-transformers
+numpy
 pandas
 scipy
 tqdm
+Pillow
+nltk
+rouge-score
+tensorflow
 torch
-urllib
-pickle
-ast
-PIL
+transformers
+datasets
